@@ -1,0 +1,3 @@
+default: -f pretty --tags 'not @wip'
+ci: -f html --out=cucumber_results.html --tags 'not @wip'
+t=results/cucumber_parallel_<%=ENV['TEST_ENV_NUMBER']%>.jsonparallel: -f json --ou

@@ -1,0 +1,19 @@
+Authentication
+
+As the site owner
+I want users to authenticate prior to buying tickets
+So that I can track user's behavior and tie purchases to identities
+
+
+Accepatance criteria
+
+there should be a login page
+login page should accept user credntials
+credentials are username and password
+if succesfull login
+   user should be able to see main page
+   he can navigate back to home page and try login again
+
+if unsuccessful login
+  error message should be dispalyed
+  should be able to create new account

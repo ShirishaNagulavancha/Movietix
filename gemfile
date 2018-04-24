@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+gem 'cucumber','3.1.0'
+gem 'rspec','3.7.0'
+gem 'page-object','2.2.4'
+gem 'activerecord','5.1.5'
+gem 'mysql2','0.4.10'
+gem 'rake','12.3.0'
+gem 'parallel_tests', '2.21.2'
